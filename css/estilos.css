@@ -1,7 +1,8 @@
 #h1{
-    text-align: center;
+    background-color: darkorchid;
+    text-align: left;
     font-family: Arial;
-    color: darkmagenta;
+    color: white
 }
 #h2{
     text-align: left;
