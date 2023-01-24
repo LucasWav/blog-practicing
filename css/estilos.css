@@ -15,3 +15,11 @@
     font-family: Arial;
 
 }
+
+#div-footer{
+    text-align: center;
+    color: white;
+    background-color: palevioletred; 
+    font-family: Arial;
+    padding-bottom: 0.5em;
+}
