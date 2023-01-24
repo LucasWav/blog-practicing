@@ -1,0 +1,4 @@
+#Lista de archvios ignorados en el repositorio de git hub
+*.jpg
+*.png
+*.jpeg
