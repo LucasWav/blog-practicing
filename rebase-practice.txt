@@ -1,2 +1,3 @@
 Vamos a practicar un poquito con el comando git rebase:
 Master 1
+Master 2
